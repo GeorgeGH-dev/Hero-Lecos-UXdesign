@@ -9,11 +9,11 @@ Bem eu **Tentei** criar um Layout como eu posso, dizer "moderno" usando:
 
 ## Bem eu não sei se ficou bonito mais funcional ficou!     
 
-[x] Fazer a estrura html.
-[x] Fazer os estilos básicos do site.
-[x] Fazer o Hero Image do site.
-[x] Fazer as animações do site com animate.css e WOW.js.
-[]  Fazer as outras páginas!!
+1. [x]Fazer a estrura html.
+2. [x]Fazer os estilos básicos do site.
+3. [x]Fazer o Hero Image do site.
+4. [x]Fazer as animações do site com animate.css e WOW.js.
+5. []Fazer as outras páginas!!
 
 ```js
 function ate() {
