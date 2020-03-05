@@ -1,0 +1,1 @@
+wow=new WOW({boxClass:"start",animatedClass:"animated",offiset:7,mobile:true,live:true});wow.init();
